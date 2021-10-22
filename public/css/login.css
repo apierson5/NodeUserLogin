@@ -1,0 +1,8 @@
+a {
+	text-decoration: none;
+}
+
+input[type="checkbox"],
+label[for="checkbox"] {
+	cursor: pointer;
+}
